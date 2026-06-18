@@ -75,4 +75,15 @@ Monitor enrollment trends for effective policy implementation.
 📊 Project Outcome
 The dashboard transforms raw educational data into meaningful insights, helping educational stakeholders monitor school infrastructure, analyze student enrollment, evaluate performance, and make informed decisions for educational development.
 
-[PASTE GITHUB LINK HERE]
+👩‍💻 Developed By
+
+Pranitha Dasari
+B.Tech Student 
+
+🔗 Project Link
+👩‍💻 Developed By
+
+Pranitha Dasari
+B.Tech Student | Data Analytics Enthusiast | Power BI Developer
+
+🔗 Project Link
