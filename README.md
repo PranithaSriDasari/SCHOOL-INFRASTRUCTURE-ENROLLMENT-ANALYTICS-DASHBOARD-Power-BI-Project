@@ -78,7 +78,7 @@ The dashboard transforms raw educational data into meaningful insights, helping 
 👩‍💻 Developed By
 
 Pranitha Dasari
-B.Tech Student 
+|B.Tech Student| 
 
 🔗 Project Link
 https://github.com/PranithaSriDasari/SCHOOL-INFRASTRUCTURE-ENROLLMENT-ANALYTICS-DASHBOARD-Power-BI-Project.git
