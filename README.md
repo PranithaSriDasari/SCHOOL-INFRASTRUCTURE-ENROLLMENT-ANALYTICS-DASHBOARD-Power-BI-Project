@@ -3,8 +3,8 @@
 School Infrastructure & Enrollment Analytics Dashboard is a Power BI project that analyzes school distribution, student enrollment, infrastructure availability, and educational performance across states and districts. It provides actionable insights to support educational planning, resource allocation, and data-driven decision-making.
 
 📊 School Infrastructure & Enrollment Analytics Dashboard
-📌 Project Overview
 
+📌 Project Overview
 This Power BI project analyzes school infrastructure, enrollment patterns, and educational performance across different states and districts. The dashboard provides interactive visualizations and insights to help stakeholders understand school distribution, resource availability, and student enrollment trends.
 
 🎯 Project Objectives
@@ -81,9 +81,4 @@ Pranitha Dasari
 B.Tech Student 
 
 🔗 Project Link
-👩‍💻 Developed By
-
-Pranitha Dasari
-B.Tech Student | Data Analytics Enthusiast | Power BI Developer
-
-🔗 Project Link
+https://github.com/PranithaSriDasari/SCHOOL-INFRASTRUCTURE-ENROLLMENT-ANALYTICS-DASHBOARD-Power-BI-Project.git
